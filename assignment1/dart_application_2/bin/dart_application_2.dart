@@ -84,8 +84,4 @@ print("-------------------- \n");
 
    print(listBooksByGenre(genre: "literature and Poetry"));
    print(listBooksByGenre(genre: "Literature"));
-
-
-
-
 }
